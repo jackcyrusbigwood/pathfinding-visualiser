@@ -2,12 +2,6 @@
 Set board div's size, background-color, display, rows & cols
 */
 
-/* body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-} */
-
 #frame {
   height: 510px;
   width: 450;
